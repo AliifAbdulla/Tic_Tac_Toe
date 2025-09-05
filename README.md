@@ -5,6 +5,7 @@ This script allows two players to play Tic-Tac-Toe against each other in the con
 This is a simple yet complete implementation of the classic two-player game, Tic-Tac-Toe, designed to be played from the command line. The project is a great example of a beginner-friendly application that showcases fundamental Python programming concepts in a clear and organized manner.
 
 **Key Features - **
+
 Game Board: The game board is represented as a list, which is a perfect data structure for this kind of grid-based game. It is displayed in a user-friendly format in the console.
 
 Two-Player Mode: The game facilitates a match between two players, "X" and "O," taking turns to make their moves.
